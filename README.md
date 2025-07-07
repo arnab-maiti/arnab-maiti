@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arnab Maiti
 
-🎓 2nd year IT student | 💻 Frontend Dev | 🌱 Learning Blockchain & AI  
+🎓 3rd year IT student | 💻 Frontend Dev | 🌱 Learning Blockchain & AI  
 🚀 MERN Stack | React • Node.js • Express • MongoDB  
 🎯 Aim: Build impactful tech & become an AI + Blockchain Pro!
 
